@@ -29,8 +29,8 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone [你的项目GitHub URL]
-    cd [你的项目文件夹名]
+    git clone [https://github.com/wusier/word_count]
+    cd [word_count]
     ```
 
 2.  **准备环境**
